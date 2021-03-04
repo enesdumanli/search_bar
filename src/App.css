@@ -1,0 +1,44 @@
+body{
+  background-color: #F5C7B8FF;
+}
+
+.App {
+  margin:auto;
+  margin-top:50px;
+  width: 50%;
+  height: 500px;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: #FFA177FF;
+  border-radius:20%
+  
+}
+li{
+  font-size:25px;
+  list-style-type:none;
+  text-align:center;
+  margin-top:10px;
+  font-family:monospace;
+  position:relative;
+}
+ul{
+  margin-top:50px;
+  
+}
+
+input[type="text"] {
+  border-width: 2px;
+  border-color:rgb(175, 113, 147);
+  display: block;
+  margin:auto;
+  margin-top:10px;
+  font-size:30px;
+  color: rgb(80, 104, 136);
+  background-color: cornsilk;
+  font-family: monospace;
+}
+
+
+
+
+
